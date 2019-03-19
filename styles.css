@@ -1,0 +1,38 @@
+body {
+    background: #c7f9ec;
+    color: white;
+}
+
+a {
+    color: gray;
+    text-decoration: none;
+}
+
+h1 {
+    color: #ffffff;
+    text-shadow: black 2px 3px 4px;
+    font-size: 50pt;
+    font-family: sans-serif;
+    text-align: center;
+}
+p {
+	color: #acfc00;
+	text-shadow: black 1px 1px 1px;
+    font-size: 25pt;
+    font-family: sans-serif;
+    text-align: center;
+    margin-left: 5px;
+}
+
+
+
+}
+.indent {
+	margin-left: 60px;
+}
+.space-below {
+	margin-bottom: 70px;
+}
+#second-paragraph {
+	color: lightgreen;
+}
